@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 # ==== DANGER: hard-coded secrets (your call) =========================
 PROJECT_ID   = "fif%2Fdata-factory%2Fcross%2Fargo%2Fbigqueryorchestrator%2Fbusinessunits%2Fcross%2Fcustom-processing%2Fscheduled-workflows-gitops"
 REF          = "custom-processing-prod"
-PRIVATE_TOKEN = "glft-Agtzo6TN6Q52-9mV1jqd"  # <-- hard-coded
+PRIVATE_TOKEN = "47z3ye3HYNjGgarRaDyp"  # <-- hard-coded
 WEBHOOK_URL   = "https://defaultc4a8886bf140478bac47249555c30a.fd.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/52812b9197b3442ba86526996379a716/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=At9pNK6c8tKVXeP4jgH-hb823vYJJSH1hYBvhAsCUR0"  # <-- hard-coded
 # ====================================================================
 
